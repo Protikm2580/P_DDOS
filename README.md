@@ -1,27 +1,27 @@
 
-Username: U7P4L
+-Username: U7P4L
 
-Password: 5H0H4
-
-
+-Password: 5H0H4
 
 
 
- Powerful
+
+
+- Powerful
  
- Simple
+- Simple
  
- Methods for Layer 4 and 7
+- Methods for Layer 4 and 7
  
- Bypass (Cloudflare, OVH, NFO,...)
+- Bypass (Cloudflare, OVH, NFO,...)
 
 
 
 
 
- Setup
+- Setup
  
-CentOS:
+-CentOS:
 
 
 yum install git -y
@@ -41,7 +41,7 @@ yum install nodejs -y
 yum install npm -y
 
 
-Debain, Ubuntu:
+-Debain, Ubuntu:
 
 
 sudo apt-get install git -y
