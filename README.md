@@ -70,9 +70,9 @@ How to use:
 
 rm -rf U-DDOS
 
-git clone https://github.com/U7P4L-IN/U-DDOS/
+git clone https://github.com/Protikm2580/P_DDOS/
 
-cd U-DDOS/
+cd P_DDOS/
 
 npm i requests
 
@@ -108,6 +108,6 @@ ulimit -n 999999
 
 chmod 777 *
 
-python3 U-DDOS.py
+python3 P_DDOS.py
 
 
